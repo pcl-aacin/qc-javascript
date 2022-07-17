@@ -21,3 +21,9 @@
 
 ## 使用方式
 请查看[Wiki](https://github.com/pcl-aacin/qc-javascript/wiki)
+
+## 开源项目使用
+在本项目中，使用了以下开源库（可能经过修改）
++ [https://github.com/feross/buffer](https://github.com/feross/buffer)
++ [https://github.com/feross/ieee754](https://github.com/feross/ieee754)
++ [https://github.com/beatgammit/base64-js](https://github.com/beatgammit/base64-js)
