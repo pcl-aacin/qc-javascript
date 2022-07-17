@@ -24,9 +24,8 @@
 
 ## 开源项目使用
 在本项目中，使用或借鉴了以下开源库（可能经过修改）
-+ [https://github.com/feross/buffer](https://github.com/feross/buffer)
-+ [https://github.com/feross/ieee754](https://github.com/feross/ieee754)
-+ [https://github.com/beatgammit/base64-js](https://github.com/beatgammit/base64-js)
-+ [https://github.com/brix/crypto-js](https://github.com/brix/crypto-js)
++ [https://github.com/pcl-aacin/buffer-javascript](https://github.com/pcl-aacin/buffer-javascript)
++ [https://github.com/pcl-aacin/browser-leveldb](https://github.com/pcl-aacin/browser-leveldb)
++ [https://github.com/pcl-aacin/crypto-javascript](https://github.com/pcl-aacin/crypto-javascript)
 + [https://github.com/DawnNights/py-pcqq](https://github.com/DawnNights/py-pcqq)
 + [https://github.com/Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
